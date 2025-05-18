@@ -2,6 +2,6 @@
 
 using DagensAktivitet;
 
-
+Aktivitet.VelgAktivitet();
 
 

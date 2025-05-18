@@ -1,7 +1,5 @@
 using DagensAktivitet;
 
-Aktivitet.VelgAktivitet();
-
 namespace DagensAktivitet
 {
     public class Aktivitet
